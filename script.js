@@ -36,7 +36,7 @@ function createTable(size){
         div.style.width = `${siPx}px`;
         div.style.height = `${siPx}px`;
         div.style.border = `1px solid rgba(255,255,255,0.5)`;
-        div.style.backgroundColor = "none";
+        div.style.backgroundColor = "rgba(255,255,255,0.3";
         div.style.transition = "0.2s";
         container.appendChild(div);
     }
