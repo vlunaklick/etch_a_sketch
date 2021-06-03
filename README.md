@@ -6,11 +6,11 @@ In the game you can paint in a gri that can be adjusted to preference.
 
 The colors you have in display are: 
 
-   *Black.
+   * Black.
 
-   *Rainbow.
+   * Rainbow.
 
-   *Gray Scale.
+   * Gray Scale.
 
-   *Color you want.
+   * Color you want.
 
