@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> In this project i recreated the game Etch a Sketch. It was created just using JavaScript and HTML to demostrated some fabolous things you can do with the DOM.
+> In this project I recreated the game Etch a Sketch. It was created just using pure JavaScript and HTML to demostrated some fabulous things you can do manipulating the DOM.
 
 ### ✨ [Live View](https://vlunaklick.github.io/etch_a_sketch/)
 
@@ -11,9 +11,8 @@
 
 👤 **vlunaklick**
 
-* Website: www.linkedin.com/in/valentín-lunaklick-548360212
 * Github: [@vlunaklick](https://github.com/vlunaklick)
-* LinkedIn: [@valentín-lunaklick](https://linkedin.com/in/valentín-lunaklick)
+* LinkedIn: [@vlunaklick](https://linkedin.com/in/vlunaklick)
 
 ## My Profile
 
