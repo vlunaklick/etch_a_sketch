@@ -4,29 +4,42 @@
     <meta charset="UTF-8">
     <title>Etch a Sketch</title>
     <link rel="stylesheet" href="style.css">
+    <meta content='width=device-width,initial-scale=1' name='viewport'>
+    <script src="https://kit.fontawesome.com/8f8817d5ec.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <h1>Etch a Sketch</h1>
-    <div id="things">
-        <div id="container-options">
-            <div id="changes">
-                <h2 class="titleop">Table option</h2>
-                <button id="size">Size</button>
-                <button id="clear">Clear</button>
-            </div>
-            <div id="colors">
-                <h2 class="titleop">Color option</h2>
-                <button id="black">Black</button>
-                <button id="rainbow">Rainbow</button>
-                <button id="greys">Greys</button>
-                <button id="selectorCol" class="selectorCol">
-                    Pick: 
-                    <input id="seleColor" type="color">
-                </button>
-            </div>
-        </div>
     
-    <div id="container"></div>
+    <div id="things">
+        <h1>Etch a Sketch</h1>
+        
+        <div class="container-game">
+            <i id="nav-header-navico-responsive" class="fas fa-bars icon"></i>
+            <div id="container-options" class='container-options'>
+                <div id="penoptions">
+                    <h2 class="titleop">Pen option</h2>
+                    <button id="pressing">Pressing</button>
+                    <button id="hovering">Hover</button>
+                </div>
+                <div id="changes">
+                    <h2 class="titleop">Table option</h2>
+                    <button id="size">Size</button>
+                    <button id="clear">Clear</button>
+                </div>
+                <div id="colors">
+                    <h2 class="titleop">Color option</h2>
+                    <button id="black">Black</button>
+                    <button id="rainbow">Rainbow</button>
+                    <button id="greys">Greys</button>
+                    <button id="selectorCol" class="selectorCol">
+                        Pick: 
+                        <input id="seleColor" type="color">
+                    </button>
+                </div>
+            </div>
+        
+        <div id="container"></div>
+        </div>
+        
 </div>
     
     <script src="script.js"></script>
