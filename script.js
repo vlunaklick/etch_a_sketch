@@ -51,11 +51,11 @@ function resetTable() {
 }
 
 function changeSize() {
-	tama = parseInt(
+	quantity = parseInt(
 		prompt('What is the new size you want for the square? (min: 10 max: 64): ')
 	)
-	while (tama > 64 || tama < 10) {
-		tama = prompt('Incorrect value (min: 10 max: 64): ')
+	while (quantity > 64 || quantity < 10) {
+		quantity = prompt('Incorrect value (min: 10 max: 64): ')
 	}
 	resetTable()
 }
